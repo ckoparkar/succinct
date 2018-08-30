@@ -5,6 +5,9 @@ wiki
 TAGS
 tags
 wip
+dist-newstyle/
+cabal.project.local
+.ghc.environment.*
 .DS_Store
 .*.swp
 .*.swo
