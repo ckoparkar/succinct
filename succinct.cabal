@@ -42,7 +42,8 @@ flag test-hlint
 
 custom-setup
   setup-depends:
-    base, Cabal, filepath
+    Cabal >= 1.16 && <1.24
+    base, filepath
 
 library
   build-depends:
